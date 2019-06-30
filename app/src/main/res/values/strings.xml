@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes Kuliah</string>
+    <string name="judul">Mata Kuliah</string>
+    <string name="deskripsi">Deskripsi Tugas</string>
+    <string name="submit">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="date">Tanggal Pengumpulan</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
